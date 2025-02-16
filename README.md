@@ -14,7 +14,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mb-codingcops/potential_nomac.git
+    git clone https://github.com/rafimashood/nomac-poc-be.git
     cd potential_nomac
     ```
 
