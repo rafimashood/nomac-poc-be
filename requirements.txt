@@ -1,0 +1,12 @@
+# Backend Api Frameworks
+django==5.1.5
+djangorestframework==3.15.2
+
+# Cors Headers
+django-cors-headers==4.7.0
+
+# for env varable
+django-environ==0.12.0
+
+# Redis Cache
+django-redis==5.4.0
